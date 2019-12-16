@@ -1,6 +1,6 @@
 # Migration guide
 
-##JFreeChart migration guide from 1.0.x to 1.5.x
+## JFreeChart migration guide from 1.0.x to 1.5.x
 
 ### RENAMING
 
